@@ -3,3 +3,6 @@ Halting Problem is raised to address the Hilbert's tenth problem.
 Alan Turing proved the Halting Problem using the diagonal method in his master thesis On Computable Numbers, with an Application to the Entscheidungsproblem.
 The thesis was published in 1936. Entscheidungsproblem is German for 'decision problem'.
 
+2.
+Two's Complement of a non-negative number n is its binary expression.
+Two's Complement of a negative number -n is the binary expression of a positive number n', such that n + n' = 2^N. 

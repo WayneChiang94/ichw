@@ -8,8 +8,15 @@ Two's Complement of a non-negative number n is its binary expression.
 Two's Complement of a negative number -n is the binary expression of a positive number n', such that n + n' = 2^N. 
 
 3.
-This answer is based on IEEE 754, Excess-127, 32 bit, since I do not have the answers to the 16 bit version.
+This answer is based on IEEE 754, Excess-127, 32 bit, since I do not have the answers to the 16-bit version.
 Sign Exponent Fraction                Value
-*    00000000 00000000000000000000000 +-0
+*    00000000 00000000000000000000000 ±0
 0    01111111 00000000000000000000000 +1
 1    01111111 00000000000000000000000 -1
+
+
+
+
+0    11111111 00000000000000000000000 +∞
+1    11111111 00000000000000000000000 -∞
+*    11111111 non-zero                NaN

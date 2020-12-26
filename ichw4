@@ -6,3 +6,5 @@ The concept of process is raised to address interaction between users and the ma
 A queue is set to reconcile the computing blocks with regard to time and I/O, in order to improve CPU efficiency for the process.
 
 2.
+The Virtual Memory is located in a disk. It could be larger than the Memory.
+The operating system chooses automatically what to put in the Memory and what to put the disks.

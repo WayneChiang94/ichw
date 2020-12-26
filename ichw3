@@ -30,3 +30,13 @@ For i = 0:100 {
     else, set V(a(i)) = 0;
   }
 }
+
+3.
+Cache is a fast speed repository.
+It is structured into two levels. Level 1 Cache is placed in CPU, while Level 2 Cache is placed between Level 1 Cache and the Main Memory.
+According to Locality, Cache should be equipped with finer algorithm in order to be more efficient.
+It works following the steps below.
+1) CPU visits Cache.
+2) If there is data, CPU gets to 4); otherwise, CPU gets to 3).
+3) CPU copies blocks of data from the Main Memory and covers respective areas of Cache.
+4) CPU deposits data in, or retrieve data from Cache.

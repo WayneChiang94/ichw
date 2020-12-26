@@ -1,0 +1,6 @@
+1.
+A job is a computing task proposed by a user to a machine.
+A process is an executable computing pattern to a particular job.
+A Queue is a line of blocks to be computed in a process. It indicates an executing order for the blocks to be run by the CPU.
+
+2.

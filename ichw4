@@ -1,6 +1,8 @@
 1.
 A job is a computing task proposed by a user to a machine.
 A process is an executable computing pattern to a particular job.
-A Queue is a line of blocks to be computed in a process. It indicates an executing order for the blocks to be run by the CPU.
+A queue is a line of blocks to be computed in a process. It indicates an order for the blocks to be run by the CPU.
+The concept of process is raised to address interaction between users and the machine.
+A queue is set to reconcile the computing blocks with regard to time and I/O, in order to improve CPU efficiency for the process.
 
 2.

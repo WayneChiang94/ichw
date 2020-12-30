@@ -6,3 +6,12 @@
 1)
 2)
 3)
+
+2.
+Transmission Control Protocol is reliable while Internet Protocol is not.
+The mode of 3-way handshake is designed to form secure connection and data exchange.
+
+3.
+Malwares include Trojan horses, viruses, worms, adwares, backdoors, spywares, etc.
+To defend against malwares, we should not run unsafe programs or open unknown links
+and shall make latest security update regularly, install anti-virus software, use guard-fire wall, etc.
